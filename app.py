@@ -73,7 +73,7 @@ HTML_PAGE = """
                 html += `<hr style="border: 0; border-top: 1px solid #30363d; margin: 15px 0;">
                         <div style="text-align: center;">
                             <p style="margin-bottom: 10px;">Continuous 24/7 Monitoring & Drift Protection</p>
-                            <a href="https://buy.stripe.com/test_placeholder" target="_blank" class="btn-pay">Subscribe - $600 / Month</a>
+                            <a href="https://auditengine-app.lemonsqueezy.com/checkout/buy/b1d35a61-d76a-496c-83d8-0a132ce08421" target="_blank" style="display:block;width:100%;text-align:center;background:#2563eb;color:#ffffff;padding:12px;border-radius:8px;font-weight:bold;text-decoration:none;margin-top:15px;">Subscribe - 00 / Month</a>
                         </div>`;
                 
                 resultCard.innerHTML = html;
